@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ahWeWfM7o7WRBhKC9gehoWLVCwwXH39b795baacmtsw=",
+  "Source": "PAINotificationService",
+  "BasePath": "_content/PAINotificationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

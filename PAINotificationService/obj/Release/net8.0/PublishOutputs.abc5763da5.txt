@@ -1,0 +1,14 @@
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\PAINotificationService.exe
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\PAINotificationService.dll
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\PAINotificationService.deps.json
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\PAINotificationService.runtimeconfig.json
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\PAINotificationService.pdb
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\Quartz.dll
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\Quartz.Extensions.DependencyInjection.dll
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\Quartz.Extensions.Hosting.dll
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\localadmin\source\repos\PAINotificationService\PAINotificationService\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
